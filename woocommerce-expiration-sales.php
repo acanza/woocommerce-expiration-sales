@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WooCommerce Expiration Sales
  * Plugin URI:        http://woodemia.com
- * Description:       With this plugin you will can show a block with the expiration sales date in the product page, in order to make the customers feel urgency.
+ * Description:       With this plugin you will can show a block with the expiration date of the sale in the product page, in order to make the customers feel urgency.
  * Version:           1.0.0
  * Author:            Antonio Cantero
  * Author URI:        http://woodemia.com/quien-esta-detras-de-woodemia/

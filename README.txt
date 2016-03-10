@@ -8,11 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-With WooCommerce Expiration Sales you will can show a block with the expiration sales date in the product page, in order to make the customers feel urgency.
+With WooCommerce Expiration Sales you will can show a block with the expiration date of the sales in the product page, in order to make the customers feel urgency.
 
 == Description ==
 
-WooCommerce Expiration Sales is a WooCommerce add-on with which you will can show a block with the expiration sales date in the product page.
+WooCommerce Expiration Sales is a WooCommerce add-on with which you will can show a block with the expiration date of the sales in the product page.
 
 This plugin is very simple. You don't need to set up anything. Simply install, activate and schedule a product sale with expiration date. Then, the customers will can see a striking message with the expiration date of the sale.
 
